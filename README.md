@@ -2,20 +2,20 @@
 <h3 align="center">Machine Learning & Data Enthusiast from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <a href="https://github.com/WildanAz">
-    <img src="https://komarev.com/ghpvc/?username=WildanAz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/WildanAz?tab=followers">
-    <img src="https://img.shields.io/github/followers/WildanAz?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://img.shields.io/badge/Interest-Data%20Science%20Path-informational" />
+  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-red" />
+  <img src="https://img.shields.io/badge/Interest-Computer%20Vision-yellow" />
+  <img src="https://img.shields.io/badge/Interest-Data%20Engineering-blueviolet" />
 </p>
+
+
 
 ---
 
 ### 🧠 About Me
 
 - 🎓 Fresh graduate passionate about **Machine Learning, Data Science, and AI Engineering**
-- 🔍 Interested in building **real-world AI systems**, not just notebooks
+- 🔍 Interested in building **real-world AI systems**
 - ⚙️ Currently focused on **model deployment** and practical ML engineering
 - 🎯 Long-term goal: Become a **Machine Learning Engineer / AI Engineer**
 
