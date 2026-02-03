@@ -17,7 +17,6 @@
 - 🎓 Fresh graduate passionate about **Machine Learning, Data Science, and AI Engineering**
 - 🔍 Interested in building **real-world AI systems**
 - ⚙️ Currently focused on **model deployment** and practical ML engineering
-- 🎯 Long-term goal: Become a **Machine Learning Engineer / AI Engineer**
 
 ---
 
